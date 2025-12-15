@@ -1,0 +1,3 @@
+Hello world! This is a simple test.
+The world is full of words, and words are powerful.
+HELLO again, world!
